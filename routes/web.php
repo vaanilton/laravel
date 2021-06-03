@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-snsd 
+snsd sdsdsdsd
 
 Route::get('/', function () {
     return view('welcome');
